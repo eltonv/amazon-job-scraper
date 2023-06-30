@@ -1,5 +1,5 @@
 # amazon-job-scraper
-This program was created to scrape the Amazon Job hiring page for jobs around the area. I designed this to scrape for job listings that were only part time and around my location.
+This program was created to scrape the Amazon Job hiring page with Selenium for jobs around the area. I designed this to scrape for job listings that were only part time and around my location.
 
 To change what city you're looking for update the string on line 25:
 ```
